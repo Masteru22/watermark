@@ -1,1 +1,1 @@
-# watermark
+First, I separated the UI and logic into different files to keep the code clean. I learned how to use Pillow to draw text on images and handle fonts. I fixed some issues with measuring text size by using the correct Pillow methods. I also managed the color selection so it doesn’t ask for color every time I apply changes. Finally, I added a save function to export the edited image. The project helped me understand how to organize Tkinter apps better and work with images in Python. Next time, I might add more watermark styles or options.
